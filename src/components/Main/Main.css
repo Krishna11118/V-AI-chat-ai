@@ -26,12 +26,12 @@ img.logo {
 .main .greet{
     margin: 10px 0px;
     font-size: 56px;
-    color: #c4c7c5;
+    color: #7e7b7b;
     font-weight: 500;
     padding: 20px;
 }
 .main .greet span{
-    background: -webkit-linear-gradient(16deg,#4b90ff,#ff5546);
+    background: -webkit-linear-gradient(16deg,#f4a636,#141212);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
