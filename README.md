@@ -53,7 +53,7 @@ Welcome to **V AI**, an innovative platform powered by advanced AI technology de
 1. **Clone the repository**:  
    ```bash
    git clone https://github.com/Krishna11118/V-AI-chat-ai
-   cd v-ai  
+   cd V-AI-chat-ai
    ```  
 
 2. **Install dependencies**:  
