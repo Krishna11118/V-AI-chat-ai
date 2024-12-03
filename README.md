@@ -45,7 +45,6 @@ Welcome to **V AI**, an innovative platform powered by advanced AI technology de
 ### Prerequisites  
 
 - [Node.js](https://nodejs.org/) 
-- [MongoDB](https://www.mongodb.com/)  
 - Git  
 
 ### Installation  
