@@ -16,8 +16,11 @@ const Main = () => {
   return (
     <div className="main">
       <div className="nav">
+        <a href='/'>
+
         <p><img className="logo" src={assets.cyber} alt="" /></p>
-        <img src={assets.bot} alt="" />
+        </a>
+        {/* <img src={assets.bot} alt="" /> */}
       </div>
       <div className="main-container">
         {!showResult ? (
