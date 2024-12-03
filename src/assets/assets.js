@@ -3,7 +3,7 @@ import bulb from './bulb.png';
 import cloud_clock from './cloud_clock.png';
 import code from './code.png';
 import gallery from './gallery.png';
-import logo from './logo.png';
+import logo from './cyber.png';
 import menu from './menu.png';
 import message from './message.png';
 import mic from './mic.png';

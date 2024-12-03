@@ -14,11 +14,11 @@
 }
 .main .nav img{
     width: 40px;
-    border-radius:50%;
+    /* border-radius:50%; */
 }
-img.logo {
+/* img.logo {
     width: 16% !important;
-}
+} */
 .main-container{
     max-width: 900px;
     margin: auto;
