@@ -44,7 +44,7 @@ Welcome to **V AI**, an innovative platform powered by advanced AI technology de
 
 ### Prerequisites  
 
-- [Node.js](https://nodejs.org/) (v14 or later)  
+- [Node.js](https://nodejs.org/) 
 - [MongoDB](https://www.mongodb.com/)  
 - Git  
 
@@ -52,7 +52,7 @@ Welcome to **V AI**, an innovative platform powered by advanced AI technology de
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/your-username/v-ai.git  
+   git clone https://github.com/Krishna11118/V-AI-chat-ai
    cd v-ai  
    ```  
 
@@ -65,16 +65,13 @@ Welcome to **V AI**, an innovative platform powered by advanced AI technology de
    Create a `.env` file in the root directory and include:  
    ```plaintext
    PORT=5000  
-   MONGO_URI=your-mongodb-connection-string  
-   OPENAI_API_KEY=your-openai-api-key  
+   VITE_GOOGLE_API_KEY=your-openai-api-key  
    ```  
 
 4. **Run the application**:  
    ```bash
+   
    npm run dev  
-   ```  
-   Open your browser and visit: `http://localhost:5000`.  
-
 ---
 
 ## Usage  
@@ -92,7 +89,7 @@ Contributions are welcome!
 1. Fork the repository.  
 2. Create a new branch for your feature/bug fix:  
    ```bash
-   git checkout -b feature-name  
+   git checkout -b feature-name
    ```  
 3. Commit your changes:  
    ```bash
@@ -111,5 +108,3 @@ Contributions are welcome!
 This project is licensed under the [MIT License](LICENSE).  
 
 ---
-
-Thank you for using **V AI**! 🚀 Feel free to reach out with feedback or questions.  
